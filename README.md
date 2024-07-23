@@ -1,6 +1,7 @@
 # About me
 
-I am Gaygysyz Guljanov. I recently defended my PhD thesis titled "Estimation of DSGE models: Skewness matters". I am a statistician/econometrician by training with relevant machine learning experience.
+I am Gaygysyz Guljanov. I am a statistician/econometrician by training with relevant machine learning experience.
+<!-- I recently defended my PhD thesis titled "Estimation of DSGE models: Skewness matters". -->
 
 # Main Projects
 <!--
