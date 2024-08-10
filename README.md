@@ -3,7 +3,7 @@
 - statistician/econometrician by training with relevant machine learning experience.
 - recently defended my PhD thesis titled "Estimation of DSGE models: Skewness matters"
 
-If you would like to collaborate on any project, do not hesitate to contact me.
+If you would like to collaborate on a project, do not hesitate to contact me.
 
 # Main Projects
 <!--
