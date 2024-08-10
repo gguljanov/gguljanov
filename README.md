@@ -13,7 +13,7 @@ If you would like to collaborate on a project, do not hesitate to contact me.
 -->
   
 ### Pruned Skewed Kalman Filter and Smoother: With Applications to the Yield Curve and Asymmetric Monetary Policy Shocks
-A project from my doctoral thesis where I together with co-authors 
+A project from my doctoral thesis where I, together with co-authors, 
 - developed pruning algorithm for the skewed Kalman filter
 - derived skewed Kalman smoother
 - estimated Yield Curve and a small-scale DSGE model assuming skewness for structural shocks
